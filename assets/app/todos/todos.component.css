@@ -1,0 +1,27 @@
+.todo-list {
+  margin-top: 20px;
+}
+
+.btns input {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.input-lg {
+  color: rgb(250, 212, 139);
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 2em;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.add-todo-label {
+  font-size: 4em;
+  text-transform: uppercase;
+}
+
+.btn-block, .todo-text {
+  font-size: 1.5em;
+}
+
+

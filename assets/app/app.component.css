@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+.example-card {
+  width: 400px;
+}
+
+.example-header-image {
+  background-image: url('../images/1.jpg');
+  background-size: cover;
+}
+
+[md-card-image] {
+    width: calc(100% + 24px);
+    margin: 10px -12px;
+}
